@@ -4,7 +4,7 @@
 
 - **[XEvil (WebAssembly)](https://github.com/CyberspaceVii/xevil-wasm)** — XEvil 2.1 beta ported to the browser with WebAssembly and an Xlib-on-SDL2 shim; single-player against the game's AI.
 - **[Wheel of Misfortune](https://github.com/CyberspaceVii/wheel-of-misfortune)** — A self-hosted spin-the-wheel party game for two adults (18+), with weighted dare wheels, an in-browser editor, and text-to-speech.
-- **[Wheel of Misfortune for Android](https://github.com/CyberspaceVii/wheel-of-misfortune-android)** — The same game as a self-contained APK that works offline, with no server and no internet permission. [Download the APK](https://github.com/CyberspaceVii/wheel-of-misfortune-android/releases/latest/download/wheel-of-misfortune.apk).
+- **[Wheel of Misfortune for Android](https://github.com/CyberspaceVii/wheel-of-misfortune-android)** — The same game as a self-contained APK that works offline, with no server and no internet permission.
 - **[deepdownlow](https://github.com/CyberspaceVii/deepdownlow)** — A HackRF One spectrum sweeper with signal ranking, frequency-band identification, FCC license lookups, and JSON export.
 
 ## Android devices
